@@ -3,10 +3,15 @@
 This project aims to discover and understand the small practical functions in C, to rewrite them and put them in a library called lift.a in order to reuse them effectively if necessary during the course at 42. Most of the functions are in LIBC with the same form and some in a different form.
 
 **Program name** | libft.a
+----
 **Files to render** | Makefile, libft.h, ft_\*.c
+----
 **Makefile** | NAME, all, clean, fclean, re
+----
 **External functions allowed** | malloc() just for: calloc & strdup implementation
+----
 **Libft allowed** | no
+----
 **Descriptions** | Create your own library containing useful functions for the rest of your course.
 
 ### Libc functions to implement
@@ -31,7 +36,9 @@ This project aims to discover and understand the small practical functions in C,
 • memcmp  
 • strnstr  
 • atoi
+
 ====Malloc allowed====
+
 • calloc  
 • strdup
 
