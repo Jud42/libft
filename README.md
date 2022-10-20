@@ -8,7 +8,7 @@ This project aims to discover and understand the small practical functions in C,
 ----
 **Makefile** | NAME, all, clean, fclean, re
 ----
-**External functions allowed** | malloc() just for: calloc & strdup implementation
+**External functions allowed** | malloc()
 ----
 **Libft allowed** | no
 ----
